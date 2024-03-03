@@ -10,4 +10,4 @@ Background: The UK Government has instituted stringent road traffic regulations 
 
 −	Recommended solutions based on insights
 
-Key Achievement: From the finding, the fatal severity rate for the bike rider is very high on the single carriage highway which happen between 2021 to 2022. Therefore, it is highly suggested the government must prioritise on reduce the accident rate on bike rider.
+Key Achievement: From the finding, the fatal severity rate for the bike rider is very high on the single carriage highway which happen between 2021 to 2022. This led into road accident reduction with better compliance with Road Regulation from cyclist.
